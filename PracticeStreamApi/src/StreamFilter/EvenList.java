@@ -21,7 +21,6 @@ public class EvenList {
 		}
 		System.out.println(evenList);
 		
-		Stream<T>
 		
 		//stream filter (iterator & condition)
 		//Stream<Integer> stream = list1.stream();
